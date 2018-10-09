@@ -1,0 +1,33 @@
+title: IMMQY米奇云科技
+description: > # this means to ignore newlines until "baseurl:" IMMQY.COM
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "/dujinyang" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. https://sheep0704.github.io
+
+# Author Settings
+author: KARL-Dujinyang # add your name
+author-img: david-freeman.jpg # add your photo
+about-author: 深圳市米奇云科技有限公司<br/><hr/>Co-Founder at &IMMQY | CTO <br/> Game And Machine Learning Engineer | Open Source Contributor <hr/><br/> 309933706@qq.com <br/> <a href="http://www.immqy.com" target="_blank"> http://www.immqy.com </a> <br/> <a href="http://dujinyang.immqy.com" target="_blank"> http://dujinyang.immqy.com </a> <br/> <a href="http://wechat.immqy.com" target="_blank"> http://wechat.immqy.com </a><br/>CHINA.SZ  # add description
+twitter: immqy520 # add your Twitter handle
+facebook: immqy520 # add your Facebook handle
+github: immqy # add your Github handle
+linkedin: immqy520 # add your Linkedin handle
+email: 309933706@qq # add your Email address
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
+theme: jekyll-theme-hacker
