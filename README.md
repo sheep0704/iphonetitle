@@ -1,7 +1,10 @@
 # Flexible-Jekyll is a simple and clean theme for Jekyll
 
 <br>
-- [WEB](https://sheep0704.github.io/iphonetitle/)
+
+- [Web](https://sheep0704.github.io/iphonetitle//)
+
+
 <br>
 
 ![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
