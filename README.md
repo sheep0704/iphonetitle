@@ -1,10 +1,14 @@
 # Flexible-Jekyll is a simple and clean theme for Jekyll
 
+<br>
+[https://sheep0704.github.io/iphonetitle/](https://sheep0704.github.io/iphonetitle/)
+<br>
+
 ![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
 ## Demo
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+Check the theme in action [Demo](https://sheep0704.github.io/iphonetitle/](https://sheep0704.github.io/dujinyang/)
 
 The main page would look like this:
 
